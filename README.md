@@ -8,7 +8,6 @@
 - 📫 How to reach me: [JoseGuerraUK][website]
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like to play chess and travel
--->
 
 ### Connect with me:
 
