@@ -1,21 +1,3 @@
-### Hi there my name is Jose Guerra 👋
-
-- 🔭 I’m currently working on developing new projects
-- 🌱 I’m currently learning React and other modern libraries
-- 👯 I’m looking to collaborate with other developers and creatives
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
-- 📫 How to reach me: [JoseGuerraUK][website]
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I like to play chess and travel
-
-### Connect with me:
-
-[<img align="left" alt="Jose Guerra UK" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Jose S Guerra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -33,11 +15,8 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
 <br />
 <br />
-<br />
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsguerra&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <br />
@@ -45,3 +24,8 @@
 
 [website]: https://joseguerra.uk
 [linkedin]: https://www.linkedin.com/in/jsguerra/
+
+### Connect with me:
+
+[<img align="left" alt="Jose Guerra UK" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Jose S Guerra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
